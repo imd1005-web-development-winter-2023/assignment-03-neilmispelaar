@@ -9,7 +9,7 @@
 
 // Constants
 const appID = "app";
-const headingText = "FROM MY MACHINE. To do. To done. ✅";
+const headingText = "YET ANOTHER CHANGE. FROM MY MACHINE. To do. To done. ✅";
 
 // Variables
 
